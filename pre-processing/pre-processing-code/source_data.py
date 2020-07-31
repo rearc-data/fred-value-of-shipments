@@ -3,6 +3,8 @@ import boto3
 from urllib.request import urlopen
 from urllib.error import URLError, HTTPError
 from multiprocessing.dummy import Pool
+from html.parser import HTMLParser
+
 
 
 def data_to_s3(frmt):
