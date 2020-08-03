@@ -16,7 +16,7 @@ This resource is presented in both the XLS and CSV formats. The included dataset
 
 `DATE, ANXAVS`
 
-The `ANXAVS` column represents value of capiral goods in terms of millions of dollars at the time of the corresponding `DATE`.  
+The `ANXAVS` column represents value of capital goods in terms of millions of dollars at the time of the corresponding `DATE`.  
 
 
 ## More Information
