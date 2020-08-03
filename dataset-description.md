@@ -1,1 +1,1 @@
-This release contains information on value of nondefense capital goods, where aircraft industries are not included in the data.
+This release contains information on the value of non-defense capital goods in the United States, excluding contributions by aircraft-related industries.
