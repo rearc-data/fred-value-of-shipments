@@ -9,7 +9,7 @@ You can subscribe to the AWS Data Exchange product utilizing the automation feat
 
 ## Main Overview
 
-This release contains information on value of nondefense capital goods, where aircraft industries are not included in the data.
+This release contains information on the value of non-defense capital goods in the United States, excluding contributions by aircraft-related industries.
 
 The included data is provided by the Federal Reserve Bank of St. Louis' FRED (Federal Reserve Economic Data) platform, which contains information on over 700,000+ series related to historical economic data. If you are interested in learning more or want to explore other datasets maintained on FRED, visit the [FRED homepage](https://fred.stlouisfed.org/).
 
