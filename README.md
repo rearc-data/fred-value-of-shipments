@@ -2,7 +2,7 @@
     <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
 </a>
 
-Smoothed U.S. Recession Probabilities | FRED
+Value of Manufacturers' Shipments for Capital Goods: Nondefense Capital Goods Excluding Aircraft Industries | FRED
 =========================
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
