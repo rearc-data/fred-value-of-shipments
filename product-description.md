@@ -1,4 +1,4 @@
-Value of Manufacturers' Shipments for Capital Goods: Nondefense Capital Goods Excluding Aircraft Industries | FRED
+Shipment of Capital: Nondefense Capital Goods Excluding Aircraft | FRED
 =========================
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/fred-value-of-shipments](https://github.com/rearc-data/fred-value-of-shipments).
